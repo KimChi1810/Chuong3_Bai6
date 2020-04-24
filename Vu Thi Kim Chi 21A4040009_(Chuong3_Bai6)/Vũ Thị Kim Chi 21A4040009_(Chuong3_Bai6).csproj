@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Vũ_Thị_Kim_Chi_21A4040009__Chuong3_Bai6_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

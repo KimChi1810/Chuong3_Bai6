@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vũ Thị Kim Chi 21A4040009_(Chuong3_Bai6)/1.0.0": {
+        "runtime": {
+          "Vũ Thị Kim Chi 21A4040009_(Chuong3_Bai6).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vũ Thị Kim Chi 21A4040009_(Chuong3_Bai6)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
